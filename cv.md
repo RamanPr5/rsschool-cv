@@ -4,8 +4,10 @@
 ### rs-school student 
 ### Contact information:
 #### Phone: +48516454148 
-#### E-mail: [ramanprudnikau@gmail.com](ramanprudnikau@gmail.com) 
+#### E-mail:ramanprudnikau@gmail.com 
 #### Discord: Raman_Pr(@RamanPr5)
+#### GitHub: [RamanPr5](https://github.com/RamanPr5)
+
 ---
 ### Education:
 * Vitebsk State Medical University (2011-2016)

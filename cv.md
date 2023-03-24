@@ -21,8 +21,8 @@
  
 ---
 ### Skills:
-* HTML
-* CSS
+* HTML5
+* CSS3
 * Git, GitHub
 * VS Code
   

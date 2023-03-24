@@ -25,6 +25,7 @@
 * CSS3
 * Git, GitHub
 * VS Code
+* JS
   
 ---
 ### Code example

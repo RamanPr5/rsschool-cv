@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="normalize.css"/>
+    <link rel="stylesheet" href="style.css"/>
+    <title>CV Raman Prudnikau</title>
+  </head>
+  <body>
+    <div class="conteiner">
+      <header>
+        <div class="photo">
+          <img src="foto.jpg" alt="my_photo" class="ava"/>
+        </div>
+        <div class="header">
+        <nav>
+          <div class="info">
+            <div class="am"><a href="#about_me">about me</a></div>
+            <div class="c"><a href="#code">code</a></div>
+            <div class="pr"><a href="#projects">projects</a></div>
+            <div class="con"><a href="#contacts">contacts</a></div>
+            <div class="sk"><a href="#skills">skills</a></div>
+            <div class="cour"><a href="#courses">courses</a></div>
+          </div>
+        </nav>
+          <div class="name">
+            <div class="surname">
+              <h1>Raman Prudnikau</h1>
+              <h2>WEB-developer and pharmacist</h2>
+            </div>
+          </div>
+        </div>
+      </header>
+      <main>
+        <div class="main">
+          <div class="my_info">
+            <div class="contacts">
+              <h3 id="contacts">Contacts</h3>
+              <ul>
+                <li>Phone: +48516454148</li>
+                <li>E-mail: ramanprudnikau@gmail.com</li>
+                <li>Discord: Raman_Pr(@RamanPr5)</li>
+                <li>GitHub: RamanPr5</li>
+              </ul>
+            </div>
+            <div class="skills">
+              <h3 id="skills">Skills</h3>
+              <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>VS Code</li>
+                <li>Git, GitHub</li>
+              </ul>
+            </div>
+            <div class="Lang">
+              <h3>Languages</h3>
+              <ul>
+                <li>Russian: Native</li>
+                <li>Belarussian: Native</li>
+                <li>English: A1 (Elementary)</li>
+              </ul>
+            </div>
+          </div>
+          <div class="about_me">
+            <div class="about_me2">
+              <h3 id="about_me">About me</h3>
+              <p>
+                I'm a student of rs-school. I like to drink beer and watch
+                moovies.
+              </p>
+            </div>
+            <div class="education">
+              <h3>Education</h3>
+              <ul>
+                <li>Vitebsk State Medical University (2011-2016)</li>
+                <li>Pharmaceutical faculty</li>
+                <li>Pharmacist (Provisor)</li>
+              </ul>
+            </div>
+            <div class="work">
+              <h3>Work experience</h3>
+              <ul>
+                <li>Pharmacy manager, Pharmacy, Mogilev (2019-2022)</li>
+                <li>Pharmacist, Pharmacy, Gorki (2016-2019)</li>
+              </ul>
+            </div>
+            <div class="code">
+              <h3 id="code">Code example</h3>
+              <pre>
+                <code>
+                  const normalizeUrl = (adress) => {
+                    let adressType;
+                    if (adress.startsWith('https://')){
+                      adressType = adress;
+                    } else {
+                      adressType = `https://${adress}`;
+                    }
+                  
+                    return adressType;
+                  }
+                </code>
+            </pre>
+            </div>
+            <div class="courses">
+              <h3 id="courses">Courses</h3>
+              <ul>
+                <li>
+                  RS Schools Course «JS/FE Pre-School 2023Q2» (in progress)
+                </li>
+              </ul>
+            </div>
+            <div class="projects">
+              <h3 id="projects">Projects</h3>
+              <ul>
+                <li>
+                  <a href="https://ramanpr5.github.io/rsschool-cv/cv" target="_blank">My CV</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </main>
+      <footer>
+        <div class="footer">
+        <a href="https://rs.school/js/" target="_blank"><img src="https://rs.school/images/rs_school_js.svg" alt="rsschool_logo" class="rs"/></a>
+          <h3>2023</h3>
+        <a href="https://github.com/RamanPr5" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github_logo" class="gh"/></a>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

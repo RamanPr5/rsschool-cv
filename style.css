@@ -1,6 +1,143 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Roboto:ital,wght@1,700&display=swap');
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    text-decoration-color: black ;
+    margin: 0 auto;
+    width: 1280px;
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
 body{
     font-family: 'Montserrat', sans-serif;
-    background-color: rgba(236, 52, 52, 0.664);
+    box-sizing: border-box;
+}
+a:hover {
+    background-color: lightgreen;
+}
+.am:hover{
+    background-color: lightgreen;
+}
+header{
+    height: 400px;
+    width: auto;
+    display: flex;
+}
+.photo{
+    height: 400px;
+    width: 30%;
+}
+.ava{
+    height: 400px;
+    width: 400px;
+}
+.header{
+    background-color: grey;
+    height: 400px;
+    width: 70%;
+}
+.info, .name{
+    width: auto;
+    background-color: rgba(251, 255, 0, 0.692);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.info{
+    height: 50px;
+    margin-top: 100px;
+    padding-left: 30%;
+}
+.name{
+    height: 130px;
+    margin-top: 20px;
+    padding-left: 40%;
+}
+.surname{
+    text-align: center;
+}
+.sk:hover{
+    background-color: lightgreen;
+}
+.c:hover{
+    background-color: lightgreen;
+}
+.pr:hover{
+    background-color: lightgreen;
+}
+.con:hover{
+    background-color: lightgreen;
+}
+.cour:hover{
+    background-color: lightgreen;
+}
+.cour, .am, .sk, .c, .pr, .con{
+  padding: 16px 10px 15px 10px;
+}
+.main{
+    display: flex;
+    height: 950px;
+}
+.my_info{
+    background-color: grey;
+    width: 30%;
+    align-items: inherit;
+}
+.contacts{
+    margin-bottom: 50px;
+    padding-left: 30px;
+}
+.skills{
+    margin-bottom: 50px;
+    padding-left: 30px;
+}
+.Lang{
+    padding-left: 30px;
+}
+.about_me{
+    background-color: rgba(251, 255, 0, 0.692);
+    width: 70%;
+}
+.about_me2, .education, .work, .code, .courses, .projects {
+    padding-left: 30px;
+    margin-bottom: 50px;
+}
+.footer{
+    background-color: rgba(251, 255, 0, 0.589);
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font: bold;
+}
+.rs{
+    height: 45px;
+    width: 60px;
+}
+.gh{
+    height: 45px;
+    width: 45px;
 }

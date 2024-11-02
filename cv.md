@@ -1,12 +1,17 @@
 # Raman Prudnikau 
-![Raman](foto.jpg "foto")
+<!-- ![Raman](foto.jpg "foto") -->
 ---
 ### rs-school student 
+---
 ### Contact information:
 #### Phone: +48516454148 
 #### E-mail: ramanprudnikau@gmail.com
 #### Discord: Raman_Pr(@RamanPr5)
 #### GitHub: [RamanPr5](https://github.com/RamanPr5)
+
+---
+### About me:
+Former pharmacist transitioning into frontend development. Actively learning modern technologies for building user interfaces, including HTML, CSS, and JavaScript. Eager to apply analytical skills and attention to detail, honed in healthcare, to create intuitive and functional web applications.
 
 ---
 ### Education:
@@ -23,9 +28,10 @@
 ### Skills:
 * HTML5
 * CSS3
+* JavaScript (Fundamentals, DOM, Data types)
 * Git, GitHub
 * VS Code
-* JS
+
   
 ---
 ### Code example
@@ -41,12 +47,18 @@ const isNotPalindrome = (word) => !isPalindrome(word);
 ```
 ---
 ### Courses
-* RS Schools Course «JavaScript/Front-end 2023Q1» (in progress)
+* RS School JS/FE Pre-School 2024Q2 [Certificate](https://app.rs.school/certificate/lizte7iq)
+* RS School Course «JavaScript/Front-end 2024Q4» (in progress)
   
 ---
 ### Languages: 
 * Russian: Native
 * Belarussian: Native
-* English: A1 (Elementary)
+* English: A2 (Pre-intermediate)
+* Polish (Basic)
+
+---
+### Location:
+ Bialystok,  Poland
 
 
